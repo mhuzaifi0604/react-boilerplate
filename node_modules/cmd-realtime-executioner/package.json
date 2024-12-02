@@ -1,0 +1,32 @@
+{
+  "name": "cmd-realtime-executioner",
+  "version": "1.0.0",
+  "description": "A streamlined Node.js command executor with real-time output streaming and process management capabilities. Use showhelp function to check how to use the package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhuzaifi0604/cmd-rt-executioner.git"
+  },
+  "keywords": [
+    "command",
+    "execution",
+    "real-time",
+    "cli",
+    "execute",
+    "commands",
+    "exec",
+    "spawn",
+    "realtime-command",
+    "execution",
+    "execute-commands"
+  ],
+  "author": "Muhammad Huzaifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhuzaifi0604/cmd-rt-executioner/issues"
+  },
+  "homepage": "https://github.com/mhuzaifi0604/cmd-rt-executioner#readme"
+}

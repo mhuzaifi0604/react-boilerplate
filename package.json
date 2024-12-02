@@ -1,0 +1,46 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "This package serves as a full Basic React Boiler Plate for Developers to Save Time creating projects from stat each time.",
+  "main": "index.js",
+  "bin": {
+    "react-boilerplate": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "src/**/*"
+  ],
+  "scripts": {
+    "test": "npm install react-boilerplate",
+    "preinstall": "node index.js",
+    "postinstall": "node index.js",
+    "prepare": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhuzaifi0604/react-boilerplate.git"
+  },
+  "keywords": [
+    "react-project",
+    "react-boilerplate",
+    "boilerplate",
+    "react-project",
+    "basic-react-application",
+    "react-application"
+  ],
+  "author": "Muhammad Huzaifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhuzaifi0604/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mhuzaifi0604/react-boilerplate#readme",
+  "dependencies": {
+    "cmd-realtime-executioner": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.1",
+    "react-spinners": "^0.14.1"
+  }
+}
